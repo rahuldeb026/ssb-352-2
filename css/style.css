@@ -1,0 +1,140 @@
+.assignment{
+    color: rgb(241, 8, 8);
+    background-color: yellow;
+    text-align: center;
+}
+.assignment_name{
+    color: blue;
+    background-color: whitesmoke;
+    text-align: center;
+}
+body{
+    color: rgb(12, 12, 12);
+    background-color: rgb(143, 152, 165);
+}
+.heading_tag{
+    color: blue;
+    background-color: rgb(79, 241, 3);
+    font-size: x-large;
+    font-style: italic;
+}
+.heading_tag1{
+    color: rgb(246, 250, 4);
+    background-color: rgb(71, 2, 160);
+}
+.sl1{
+    color: slateblue;
+    background-color: black;
+}
+.description1{
+    color: black;
+    background-color: white;
+}
+.heading_tag2{
+    color: yellow;
+    background-color: rgb(0, 0, 0);
+}
+.sl2{
+    color: red;
+    background-color: white;
+}
+.description2{
+    color: white;
+    background-color: red;
+}
+.heading_tag3{
+    color: black;
+    background-color: rgb(43, 38, 92);
+}
+.sl3{
+    color: black;
+    background-color: rgb(249, 2, 2);
+}
+.description3{
+    color: rgb(50, 156, 205);
+    background-color: rgb(240, 222, 240);
+}
+.heading_tag4{
+    color: red;
+    background-color: black;
+}
+.sl4{
+    color: blue;
+    background-color: white;
+}
+.description4{
+    color: whitesmoke;
+    background-color: tomato;
+}
+.heading_tag5{
+    color: white;
+    background-color: red;
+}
+.sl5{
+    color:wheat;
+    background-color: rgb(0, 0, 0);
+}
+.description5{
+    color: rgb(13, 14, 13);
+    background-color: yellow;
+}
+.heading_tag6{
+    color: oldlace;
+    background-color: rgba(28, 245, 8, 0.842);
+}
+.sl6{
+    color: palevioletred;
+    background-color: red;
+}
+.discription6{
+    color: steelblue;
+    background-color: wheat;
+}
+.heading_tag7{
+    color: rgb(158, 192, 192);
+    background-color: black;
+}
+.sl7{
+    color: blue;
+    background-color: white;
+}
+.discription7{
+    color: rgb(255, 0, 43);
+    background-color: rgba(238, 241, 12, 0.966);
+}
+.heading_tag8{
+    color: black;
+    background-color: white;
+}
+.sl8{
+    color: black;
+    background-color: yellow;
+}
+.discription8{
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+.heading_tag9{
+    color: black;
+    background-color: red;
+}
+.sl9{
+    color: blue;
+    background-color: red;
+}
+.discription9{
+    color: salmon;
+    background-color: black;
+}
+.heading_tag10{
+    color: brown;
+    background-color: chartreuse;
+}
+.sl10{
+    color: rgb(0, 0, 0);
+    background-color: cornsilk;
+}
+.discription10{
+    color: crimson;
+    background-color: darkgrey;
+}
